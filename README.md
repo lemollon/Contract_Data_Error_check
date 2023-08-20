@@ -36,4 +36,4 @@ Feel free to use, modify, and distribute this code as needed.
 
 ## Contact
 
-For any questions or support, please contact [Your Name or GitHub Profile](Your GitHub Profile URL or Email).
+For any questions or support, please contact [Leron Mollon].
